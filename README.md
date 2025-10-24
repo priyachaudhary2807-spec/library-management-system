@@ -1,3 +1,4 @@
 # library-management-system
 This is my first Git Repository. 
-author - priya
+author - priya khokhar
+
